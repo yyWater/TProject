@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#ffffff</color>
+
+    <color name="b1">#ff86b2da</color>
+    <color name="b1b_color">#ff37b059</color>
+    <color name="b2">#ff0073d2</color>
+    <color name="b2_color">#ff333333</color>
+    <color name="b3">#fffc7634</color>
+    <color name="b4">#ffff5b52</color>
+    <color name="background_tab_pressed">#6633b5e5</color>
+    <color name="bg_yellow">#ffefc457</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="ik_white">#ffffffff</color>
+    <color name="ik_common_font_paragraph_main">#ff9d9d9d</color>
+    <color name="ik_common_main_normal">#ff37b059</color>
+    <color name="ik_common_main_pressed">#ff2c984a</color>
+    <color name="tab_text_focused">#0564A8</color>
+
+    <drawable name="gainsboro">#dcdcdc</drawable><!--淡灰色 -->
+    <drawable name="activ_bg_color">#EEF0F2</drawable><!--淡灰色 -->
+    <drawable name="news_detail_btn_bg">#F2F1EF</drawable>
+
+    <color name="ik_common_line_a">#ffd3d3d3</color>
+    <color name="ik_common_line_b">#ffeeeeee</color>
+    <color name="ik_common_line_c">#ffe5e5e5</color>
+    <color name="ik_common_line_d">#ffd7d6d6</color>
+    <color name="ik_common_line_e">#ffd8d8d8</color>
+    <color name="ik_common_line_f">#ffc2c2c2</color>
+    <color name="ik_common_line_l">#ffd5d5d5</color>
+
+    <color name="ik_common_font_title_main">#ff333333</color>
+    <color name="ik_common_font_title_sub">#ff666666</color>
+
+    <color name="ik_common_bg_a">#ffe7e7e7</color>
+    <color name="ik_common_bg_b">#fff0f0f0</color>
+    <color name="ik_common_bg_c">#fff2f2f2</color>
+    <color name="ik_common_bg_d">#ff0073d2</color>
+
+    <color name="ik_common_button_a_pressed">#5fffffff</color>
+
+    <color name="base_white_100">#FFFFFFFF</color>
+
+    <color name="base_black_90">#E6000000</color>
+
+    <!--分割线色值-->
+    <color name="line_color">#d0d0d0</color>
+
+    <color name="setting_bg">#f5f7f0</color>
+    <color name="title_bar_bg">#0663A8</color>
+    <color name="login_forget_psw_color">#8b8b8b</color>
+    <color name="login_register_lable_color">#6d6d6d</color>
+    <color name="login_forget_psw_color_push">#AAAAAA</color>
+    <color name="login_forget_psw_color_focus">#CCCCCC</color>
+
+    <color name="news_item_time_label_color">#848484</color>
+    <color name="news_item_good_num_label_color">#ff2973</color>
+    <color name="ik_common_font_hint">#ffb1b1b1</color>
+
+    <color name="bg_swipe_item_neutral">@android:color/transparent</color>
+    <color name="bg_item_normal_state">#fff0f0f0</color>
+    <color name="bg_item_dragging_state">#ffffdddd</color>
+    <color name="bg_item_dragging_active_state">#ffff9999</color>
+
+    <color name="qa_tab_font_normal_color">#FBFBFE</color>
+    <color name="reg_law_text_color">#0563a6</color>
+
+    <color name="attend_bar_color">#FFFFFF</color>
+    <color name="attend_bar_text_color">#262626</color>
+
+    <color name="daily_attend_color">#EA6B48</color>
+    <color name="user_info_content_color">#646464</color>
+
+    <color name="ik_common_font_paragraph_sub">#ffc9c9c9</color>
+    <color name="text_color_credit">#F7BA5B</color>
+    <color name="ik_ask_input">#ff4e4e4e</color>
+    <color name="ik_photo_select_dialog_bg">#fff6f6f6</color>
+    <color name="sys_msg_time">#ff999999</color>
+    <color name="ik_common_cell_bg">#fff8f8f8</color>
+    <color name="label_gray">#bdbcbc</color>
+    <color name="bg_anonymous_view">#E6E6E6</color>
+    <color name="ask_view_label_color">#8b8b8b</color>
+    <color name="ask_view_wealth_label_color">#767676</color>
+    <color name="ask_view_wealth_value_color">#0563a6</color>
+    <color name="ask_view_more_wealth_label_color">#bbbbbb</color>
+    <color name="ask_view_wealth_tv_value_color">#565656</color>
+    <color name="question_pay_label_color">#a1a1a1</color>
+
+    <color name="transfer_record_label_color">#2c2c2c</color>
+    <color name="news_detail_btn_text_color">#020202</color>
+    <color name="bg_news_question_color">#E8E7E4</color>
+
+    <color name="bg_reply_question_layout_color">#F2F1EF</color>
+</resources>

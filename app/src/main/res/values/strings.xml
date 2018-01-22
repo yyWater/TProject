@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ZApplication</string>
+
+    <string name="tab_news">new</string>
+    <string name="tab_qa">Q_A</string>
+    <string name="tab_activity">find</string>
+    <string name="tab_mine">mine</string>
+</resources>
